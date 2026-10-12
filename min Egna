@@ -37,3 +37,5 @@ https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
 https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8
 #EXTINF:-1 group-title="Iraq",Kurdmax Sorani
 https://www.karwan1.de/karwan.tv/kurdmax-sorani/chunks.m3u8
+#EXTINF:-1 group-title="Iraq",Kurdmax Sorani
+https://stream.kurdmax.tv/app/kurdmax-sorani1/ts:playlist.m3u8
